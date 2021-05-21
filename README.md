@@ -1,7 +1,7 @@
 # StatusServer
 __Parte 1 - Baixando Script__ 
 
-```cd /root && wget https://raw.githubusercontent.com/fabricio94b/StatusServer/main/onlineapp.sh && chmod +x onlineapp.sh```
+```cd /root && wget https://raw.githubusercontent.com/NT-Injector/StatusServer/main/onlineapp.sh && chmod +x onlineapp.sh```
 
 
 __Parte 2: Instalando Apache2 e Cron__
